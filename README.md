@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de prueba
+Mi primer repositorio.
 
 Autor: Alberto Villanueva.
 Fecha: 7 de febrero del 2022
